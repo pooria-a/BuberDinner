@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "TR0XHiF+8+HTVetHI0Bv0Avl4elQ8xUYbV168SVRIY9ZosvLUbB+3dN8Imd+1TyszKzPgVc+RP40QL8PpI+46Q==",
+  "success": true,
+  "projectFilePath": "/Users/pooriaabdollahi/Downloads/BuberDinner/BuberDinner/BuberDinner.Api/BuberDinner.Api.csproj",
+  "expectedPackageFiles": [
+    "/Users/pooriaabdollahi/.nuget/packages/microsoft.aspnetcore.openapi/7.0.9/microsoft.aspnetcore.openapi.7.0.9.nupkg.sha512",
+    "/Users/pooriaabdollahi/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/pooriaabdollahi/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/Users/pooriaabdollahi/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/Users/pooriaabdollahi/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/Users/pooriaabdollahi/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/Users/pooriaabdollahi/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

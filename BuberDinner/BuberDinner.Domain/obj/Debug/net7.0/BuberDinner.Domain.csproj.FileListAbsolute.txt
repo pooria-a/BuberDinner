@@ -1,0 +1,12 @@
+/Users/pooriaabdollahi/Downloads/BuberDinner/BuberDinner/BuberDinner.Domain/bin/Debug/net7.0/BuberDinner.Domain.deps.json
+/Users/pooriaabdollahi/Downloads/BuberDinner/BuberDinner/BuberDinner.Domain/bin/Debug/net7.0/BuberDinner.Domain.dll
+/Users/pooriaabdollahi/Downloads/BuberDinner/BuberDinner/BuberDinner.Domain/bin/Debug/net7.0/BuberDinner.Domain.pdb
+/Users/pooriaabdollahi/Downloads/BuberDinner/BuberDinner/BuberDinner.Domain/obj/Debug/net7.0/BuberDinner.Domain.csproj.AssemblyReference.cache
+/Users/pooriaabdollahi/Downloads/BuberDinner/BuberDinner/BuberDinner.Domain/obj/Debug/net7.0/BuberDinner.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pooriaabdollahi/Downloads/BuberDinner/BuberDinner/BuberDinner.Domain/obj/Debug/net7.0/BuberDinner.Domain.AssemblyInfoInputs.cache
+/Users/pooriaabdollahi/Downloads/BuberDinner/BuberDinner/BuberDinner.Domain/obj/Debug/net7.0/BuberDinner.Domain.AssemblyInfo.cs
+/Users/pooriaabdollahi/Downloads/BuberDinner/BuberDinner/BuberDinner.Domain/obj/Debug/net7.0/BuberDinner.Domain.csproj.CoreCompileInputs.cache
+/Users/pooriaabdollahi/Downloads/BuberDinner/BuberDinner/BuberDinner.Domain/obj/Debug/net7.0/BuberDinner.Domain.dll
+/Users/pooriaabdollahi/Downloads/BuberDinner/BuberDinner/BuberDinner.Domain/obj/Debug/net7.0/refint/BuberDinner.Domain.dll
+/Users/pooriaabdollahi/Downloads/BuberDinner/BuberDinner/BuberDinner.Domain/obj/Debug/net7.0/BuberDinner.Domain.pdb
+/Users/pooriaabdollahi/Downloads/BuberDinner/BuberDinner/BuberDinner.Domain/obj/Debug/net7.0/ref/BuberDinner.Domain.dll

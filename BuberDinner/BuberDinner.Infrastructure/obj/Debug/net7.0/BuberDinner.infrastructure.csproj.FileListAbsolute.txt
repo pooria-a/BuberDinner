@@ -1,0 +1,17 @@
+/Users/pooriaabdollahi/Downloads/BuberDinner/BuberDinner/BuberDinner.infrastructure/bin/Debug/net7.0/BuberDinner.infrastructure.deps.json
+/Users/pooriaabdollahi/Downloads/BuberDinner/BuberDinner/BuberDinner.infrastructure/bin/Debug/net7.0/BuberDinner.infrastructure.dll
+/Users/pooriaabdollahi/Downloads/BuberDinner/BuberDinner/BuberDinner.infrastructure/bin/Debug/net7.0/BuberDinner.infrastructure.pdb
+/Users/pooriaabdollahi/Downloads/BuberDinner/BuberDinner/BuberDinner.infrastructure/obj/Debug/net7.0/BuberDinner.infrastructure.csproj.AssemblyReference.cache
+/Users/pooriaabdollahi/Downloads/BuberDinner/BuberDinner/BuberDinner.infrastructure/obj/Debug/net7.0/BuberDinner.infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pooriaabdollahi/Downloads/BuberDinner/BuberDinner/BuberDinner.infrastructure/obj/Debug/net7.0/BuberDinner.infrastructure.AssemblyInfoInputs.cache
+/Users/pooriaabdollahi/Downloads/BuberDinner/BuberDinner/BuberDinner.infrastructure/obj/Debug/net7.0/BuberDinner.infrastructure.AssemblyInfo.cs
+/Users/pooriaabdollahi/Downloads/BuberDinner/BuberDinner/BuberDinner.infrastructure/obj/Debug/net7.0/BuberDinner.infrastructure.csproj.CoreCompileInputs.cache
+/Users/pooriaabdollahi/Downloads/BuberDinner/BuberDinner/BuberDinner.infrastructure/obj/Debug/net7.0/BuberDinner.infrastructure.dll
+/Users/pooriaabdollahi/Downloads/BuberDinner/BuberDinner/BuberDinner.infrastructure/obj/Debug/net7.0/refint/BuberDinner.infrastructure.dll
+/Users/pooriaabdollahi/Downloads/BuberDinner/BuberDinner/BuberDinner.infrastructure/obj/Debug/net7.0/BuberDinner.infrastructure.pdb
+/Users/pooriaabdollahi/Downloads/BuberDinner/BuberDinner/BuberDinner.infrastructure/obj/Debug/net7.0/ref/BuberDinner.infrastructure.dll
+/Users/pooriaabdollahi/Downloads/BuberDinner/BuberDinner/BuberDinner.Infrastructure/bin/Debug/net7.0/BuberDinner.Application.dll
+/Users/pooriaabdollahi/Downloads/BuberDinner/BuberDinner/BuberDinner.Infrastructure/bin/Debug/net7.0/BuberDinner.Domain.dll
+/Users/pooriaabdollahi/Downloads/BuberDinner/BuberDinner/BuberDinner.Infrastructure/bin/Debug/net7.0/BuberDinner.Application.pdb
+/Users/pooriaabdollahi/Downloads/BuberDinner/BuberDinner/BuberDinner.Infrastructure/bin/Debug/net7.0/BuberDinner.Domain.pdb
+/Users/pooriaabdollahi/Downloads/BuberDinner/BuberDinner/BuberDinner.infrastructure/obj/Debug/net7.0/BuberDinner.infrastructure.csproj.CopyComplete
